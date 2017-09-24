@@ -47,6 +47,7 @@ The following has been done:
 - Double checked 4 document structures
 - Double checked headings and paragraphs
 - Included quote within introductory paragraph
+- Included quote at the end of page as well
 - Created two nested lists
 - Fixed tag errors
 

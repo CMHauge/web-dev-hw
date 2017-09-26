@@ -30,7 +30,7 @@ Well, it seems that Atom continues to crash no matter what I do. This time it cr
 
 ---
 
-## Added A Recipe
+## Added Recipe Ingredients and Equipment List
 
 I've chosen to do an edible cookie dough recipe. I absolutely love cookie dough and it always annoyed me that I couldn't eat it because of the raw eggs, but if you make it without eggs... tadah! Edible!
 

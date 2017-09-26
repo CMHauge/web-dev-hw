@@ -50,6 +50,7 @@ The following has been done:
 - Included quote at the end of page as well
 - Created two nested lists
 - Fixed tag errors
+- Removed directions from the recipe! (Oops!)
 
 ---
 

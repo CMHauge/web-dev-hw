@@ -59,3 +59,40 @@ The following has been done:
 Made sure all requirements were covered!
 
 ### Project 2 - Part 1 - Complete!
+
+---
+
+# Project 2 - Part 2
+
+So much reading to do! This is the first thing I do before the start of every project. I read through all the materials and then check for all the project requirements, and then proceed work my way through the project step by step, double checking everything along the way!
+
+## Mistakes were made!
+
+Dang it, I knew I'd do something wrong! There's always something, isn't there? Thank goodness for the issues board and someone having already solved the problem! I had an issue with my images not appear at first. It's that darn second dot. You know, this thing:
+![Code Screenshot](./images/screenshot-4.png)
+
+## Tables
+
+Tables were admittedly a little confusing, but I am *extremely* grateful for the coding examples on the class website. I'd be way more lost without those! They're super helpful!
+
+## Instructions.html done!
+
+I double checked everything:
+- Images are linked properly.
+- Pages are linked properly.
+- Table elements are all there, with light styling!
+- Image attributes are present
+- Semantic Markup has been included!
+
+That's quite the checklist! But I'm happy to say I'm pretty sure I've got it all covered!
+
+## On to the Form page!
+
+I thought tabels were confusing, but oh boy was I wrong. Forms are far more confusing! This was a little overwhelming, but I think I got it all figured out!
+I double checked everything *again* and I *think* I have everything I needed!
+
+### Project Wrap-Up and Conclusions:
+
+Coding is definitely getting more complicated to keep track of with all these new elements to add, but I think I've got the hang of it. (Hopefully?) Like I mentioned before, this part of the project was a bit overwhelming, but I made sure to take plenty of breaks! (Which I highly recommend!) Coding can be a bit of a headache so it's best to take plenty of breaks to give your brain time to rest and not overload yourself with too much at once.
+
+### Project complete!

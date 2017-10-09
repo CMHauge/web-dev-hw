@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta name="description" content="Instructable For Project 2, Cookie Dough Instructions">
+      <meta name="author" content="Chelsey Hauge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Form Page</title>
+        <style>
+          body {background-color: #e8e8e8; font-family: 'Lato', sans-serif;}
+          h1 {color: 1e1e1e;}
+          p {color: 3d3d3d;}
+        }
+        </style>
+    </head>
+    <!--End Head Elements and Style-->
+    <body>
+      <h1>Do you have pictures to share of your creations?</h1>
+      <p>Because this recipe can be used for many different things, please feel free to share your creations and ideas here!</p>
+      <hr>
+      <br />
+      <p>We're going to need a few pieces of information first! This is so we can thank you for your pictures and information, and possibly share your creations with others!</p><br />
+      <!--Selection Element-->
+      <form action="https://www.example.com/profile.php" method="post" id="example-form" class="form-class">
+        <p>Did you enjoy enjoy this recipe?
+          <br />
+        <input type="radio" name="answer" value="yes" />
+        <label for="yes">Yes</label>
+          <br />
+        <input type="radio" name="answer" value="no" />
+        <label for="no">No</label>
+          <br />
+        </p>
+      </form>
+      <br />
+    <!--Upload Element-->
+    <form action="https://www.example.com" method="post" id="example-upload" class="form-class">
+      <label>
+      <p>Upload your photos here!</p>
+      <input type="file" name="user-photo" /></label>
+        <br />
+      <label>
+      <input type="submit" value="Upload" /></label>
+    </form>
+    <br />
+    <label>Additional Information:</label>
+    <form action="https://www.example.com" method="post" id="example-textarea" class="form-class">
+      <textarea name="comments" style="min-width:50%" autofocus>
+        Provide additional information and comments here:
+      </textarea>
+    </form>
+    <br />
+    <!--Contact Information Fieldset-->
+<form action="https://www.example.com/subscribe.php" method="post">
+    <fieldset>
+      <legend>Contact Information</legend>
+      <label>Name:<br />
+        <input type="text" name="name" /></label>
+      <br />
+      <label>Email:<br />
+        <input type="email" name="email" id="email" placeholder="youremail@site.com" required />
+        <input type="submit" value="Submit" /></label>
+      <br />
+    </fieldset>
+  </form>
+  <br />
+  <ul>
+  <li><a href="./instructions.html">Back to Instructions</a></li>
+  <li><a href="../index.html">Back to Home</a></li>
+</ul>
+    </body>
+</html>

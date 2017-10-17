@@ -100,6 +100,8 @@ Coding is definitely getting more complicated to keep track of with all these ne
 # Project 2 - Part 3
 
 Overwhelming at first, but then... easier! Honestly looking at video and audio instructions freak me out a little. So trying to wrap my head around it was especially hard after a stressful week. That aside, I think I finally figured it out. Though I'll never understand why Atom is trying to tell me there's an error with my type part of my code, but it doesn't seem to be causing any problems and the video is displaying correctly. I know programs like Atom can be finicky at times, so I'm assuming that's what's happening.
+![Code Screenshot](./images/screenshot-5.png)
+Just look at that silly error trying to scare me!
 
 ## About Page Complete!
 

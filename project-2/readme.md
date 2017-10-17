@@ -91,8 +91,26 @@ That's quite the checklist! But I'm happy to say I'm pretty sure I've got it all
 I thought tabels were confusing, but oh boy was I wrong. Forms are far more confusing! This was a little overwhelming, but I think I got it all figured out!
 I double checked everything *again* and I *think* I have everything I needed!
 
-### Project Wrap-Up and Conclusions:
+### Project Part 2 Wrap-Up and Conclusions:
 
 Coding is definitely getting more complicated to keep track of with all these new elements to add, but I think I've got the hang of it. (Hopefully?) Like I mentioned before, this part of the project was a bit overwhelming, but I made sure to take plenty of breaks! (Which I highly recommend!) Coding can be a bit of a headache so it's best to take plenty of breaks to give your brain time to rest and not overload yourself with too much at once.
 
-### Project complete!
+### Project Part 2 complete!
+
+# Project 2 - Part 3
+
+Overwhelming at first, but then... easier! Honestly looking at video and audio instructions freak me out a little. So trying to wrap my head around it was especially hard after a stressful week. That aside, I think I finally figured it out. Though I'll never understand why Atom is trying to tell me there's an error with my type part of my code, but it doesn't seem to be causing any problems and the video is displaying correctly. I know programs like Atom can be finicky at times, so I'm assuming that's what's happening.
+
+## About Page Complete!
+
+Okay, it was honestly silly to be so overwhelmed by that. It wasn't that bad! Fairly simple, actually. Hopefully I can remember all off the HTML information in the future though! That's a lot to remember.
+
+## To Youtube For More Cookies!
+
+Ah! This one was super easy! I also love that it means sharing the wonderful world of the Tasty! videos with everyone. I love their little recipe videos and they're absolutely *perfect* for a recipe project like this. I don't know why I didn't think of them before! Their little videos really make me want to create my own baking videos. ...Maybe someday! That's a project for the future.
+
+### Project 2 Complete!
+
+### Project Wrap-Up and Final Thoughts:
+
+Although I had some ups and downs with this project, like small victories and a lot of frustration at time (when is coding *not* frustrating?), I really enjoyed this project! I feel like I've learned quite a bit. Now if only I could remember it all... darn my horrible memory. That'll be a challenge in itself, but I always say I like a good challenge! Hopefully future projects will go just as smoothly!

@@ -63,10 +63,18 @@ These were actually fairly easy, which I'm thankful for. I'm really happy with h
 
 ---
 
-## Project Wrap-Up Thoughts
+## Project Part 2 Wrap-Up Thoughts
 
 That wasn't nearly as bad as I thought it was going to be. It certainly took longer than I expected, but once I really got focused and figured out my plan, it was pretty easy going from there. *And* I'm pretty sure I managed to make sure all requirements were met! That was a big project, but I'm *super* happy with how it turned out!
 
 ![Bonus Kitty Picture](./images/my-kitty-2.jpg)
 
 Cats are fantastic, and mine is adorable and basically my baby, so have another kitty picture just because.
+
+---
+
+## Project Part 3 - Struggles & Frustrations
+
+Ahh! This has been so frustrating. I realized all too late that the way I designed my nav bar would make it really difficult to add a dropdown to. And then I reread directions and realized we were supposed to do an all new one, if I'm reading correctly? But every time I ripped my current nav bar out, it would screw something up and make the rest of my css not work. Which is strange, becausae I was *only* taking out the nav bar area, and the rest of it is styled on its own, so I'm very confused! But I'm coming up on deadlines, and I realize my mistake of starting to do this way too late in the week.
+
+So, that being said, I elected to put my dropdown menu on as my aside section. I'm still super confused and it took a lot of playing around to get things to work. This is the first time this semester that I've felt really lost. I've had small frustrations, sure, but this part really confused me. Hoping I can wrap my head around it better next time. Either way, I managed to get it done. Not exactly perfect, but it'll have to do!

@@ -43,8 +43,8 @@
 @font-face {
     font-family: 'Carrington';
     src:
-      url('Carrington-webfont.woff2') format('woff2'),
-      url('Carrington-webfont.woff') format('woff'),
-      url('Carrington-webfont.ttf') format('truetype'),
+      url('../fonts/Carrington-webfont.woff2') format('woff2'),
+      url('../fonts/Carrington-webfont.woff') format('woff'),
+      url('../fonts/Carrington-webfont.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;

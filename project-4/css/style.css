@@ -1,0 +1,89 @@
+h1 {
+  font-family: 'Carrington';
+  text-align: center;
+  font-size: 42px;
+  text-shadow: 2px 2px #000000;
+  background-color: #addcc9;
+  color: #ffffff;
+  width: 100%;
+}
+
+.container {
+display: flex;
+flex-wrap: wrap;
+}
+
+.content-1 {
+  font-family: 'Arvo';
+  background-color: #dbebc2;
+  color: #000000;
+  font-weight: 200;
+  font-size: 18px;
+  text-align: center;
+  border-color: #ffffff;
+  border-width: 4px;
+  border-style: solid;
+}
+
+.content-2 {
+  font-family: 'Arvo';
+  background-color: #fdd2b5;
+  color: #000000;
+  font-weight: 200;
+  font-size: 18px;
+  text-align: center;
+  border-color: #ffffff;
+  border-width: 4px;
+  border-style: solid;
+}
+
+.footer {
+  font-family: 'Quicksand';
+  background-color: #f7a8a6;
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  font-size: 24px;
+}
+
+h2 {
+  text-align: center;
+  text-shadow: 2px 2px #000000;
+  background-color: #b0b0b0;
+  color: #ffffff;
+  width: 100%;
+}
+@media (min-width: 320px) {
+  h1 {
+    width: 100%
+  }
+  .content-1 {
+    width: 100%
+  }
+  .content-2 {
+    width: 100%;
+  }
+  .footer {
+    100%
+  }
+}
+
+@media (min-width: 550px) {
+  h1 {
+    width: 100%;
+  }
+  .content-1 {
+    width: 48%;
+  }
+  .content-2 {
+    width: 48%;
+  }
+  .footer {
+    width: 100%;
+  }
+}
+
+p {
+  padding: 8px;
+}
